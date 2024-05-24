@@ -1,0 +1,25 @@
+{
+  "payees": [
+    {
+      "name": "Vandana",
+      "bank_name": "HDFC",
+      "acc_no": 4111610074000,
+      "acc_type": "Savings",
+      "id": 1
+    },
+    {
+      "name": "Nikunj",
+      "bank_name": "ICICI",
+      "acc_no": 4111610075000,
+      "acc_type": "Savings",
+      "id": 2
+    },
+    {
+      "name": "shubham Wani",
+      "bank_name": "BOI mumbai",
+      "acc_no": "41111000023073",
+      "acc_type": "Savings",
+      "id": 3
+    }
+  ]
+}
